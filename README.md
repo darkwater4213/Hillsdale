@@ -1,7 +1,3 @@
-<style src="mla-essay.css"></style>
-
-# Hillsdale
-
 <!--
 I want to go to Hillsdale because...
 
