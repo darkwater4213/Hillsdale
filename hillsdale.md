@@ -1,3 +1,5 @@
+<style src="mla-essay.css"></style>
+
 # Hillsdale
 
 <!--
