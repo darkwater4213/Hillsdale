@@ -49,24 +49,25 @@ Hillsdale is a conservative, Christian, classical liberal arts college
 My name is Douglas Anthony and I have been homeschooled for most af my life.
 I'm interested in programming, mathematics, swords, lore, and game design, in approximately that order.
 I recently took up fencing, which has taught me a lot about honor and the "rules of engagement".
-I personally believe that the most honorable thing one can do in a discussion is to be as intellectually honest as possible, at all times, above all else.
-Of course, such a **state** requires requires utter freedom of thought, and thus speech.
-As a matter of fact, such a high degree of _learning_ is necessary for a functioning society, and in turn, for a functioning economy, and in turn, for a functioning **politic**.
-But such discipline can only come from sound _character_.
+I personally believe that the most honorable thing one can do in a discussion is to be as intellectually honest as possible, at all times.
+To achieve this requires freedom of thought and thus freedom of speech.
+<!-- Of course, such a **state** requires requires utter freedom of thought, and thus speech. -->
+In fact, such a high degree of _learning_ is necessary for a functioning society, and in turn, for a functioning economy, and ultimately, for a functioning government.
+However, such discipline can only come from sound _character_.
 And such character comes only from the Almighty, through _faith_.
 Namely, the Christian Faith, as expressed in the Nicene Creed.
-But such faith can only be observed through _freedom_, and freedom is maintained by constant _learning_.
-Hillsdale's Four Pillars, as they are known are somewhat unique in terms of virtues.
-None of them con fully, truly exist without the others (though many people and governments have tried).
-Moreover, any body, governmental or otherwise, lacking in any of them will surely fail.
+But such faith can only be observed through _freedom_, and freedom exists only through constant _learning_.
+Hillsdale's Four Pillars, learning, character, faith, and freedom, are somewhat unique among the virtues.
+None of them can fully and truly exist without the others, though many people and governments have tried.
+Moreover, any body, governmental or otherwise, lacking in any of the four will surely fail.
 As James Madison said, "Our Constitution was made only for a moral and religious people.
 It is wholly inadequate to the government of any other."  
 
-It is interesting (and perhaps somewhat depressing) then, that it appears that our government has abandoned all of them.
-Indeed, our very culture has.
-To find a honorable man is a rare event, to find an honest one even rarer.
+It is interesting, though perhaps somewhat depressing, that it appears that our government has abandoned all of these pillars.
+Indeed, our very culture has abandoned them.
+To find an honorable man is a rare event, to find an honest one even rarer.
 Any sense of duty we once had has been systematically corrupted in all but the most astute of individuals.
-Respect is almost an afterthought, and comes only once you have <!-- dutifully played your part as a good little tape recorder, squawking back approved viewpoints. -->  
+Respect is almost an afterthought, and comes only once you have cast your vote and exercised your rights, so long as they are in line with how other people think you should be exercising them.  
 
 <!--
 Even sadder, this is not unique to the political left.
@@ -84,12 +85,21 @@ I happen to believe that almost every question worth asking has an objective, ul
 This goes for governmental policies, as well.
 -->
 
-But this opens the doors to the strange world of authoritarian democracies (or the tyranny of the mob).
-And this is precisely why our Constitution exists: to keep the Federal government in check, and to provide a minimal, basic common ground on which the Several States could unite, hence our name: the United States.
-It seems a lot of people never stop to even ask themselves what that name is supposed to mean.
-We are not one grand American Empire, but rather, fifty distinct, unique territories (46 states and four technicalities: Pennsylvania is still a Commonwealth), unified on a basis of Liberty and self-government.
-Or that was the idea, anyway.
-We've come so far, but whether that has been on the up and up is yet another debate.  
+And this opens the doors to the strange world of authoritarian democracies, or the tyranny of the mob.
+And this is precisely why our constitution exists: to keep the Federal Government in check, and to provide a minimal, basic common ground on which the several states could unite.
+THis is why our country is named the way it is: not America, not even North America or the States.
+We are the United States of America.
+And that is for a reason.  
+
+Yet it seems a lot of people never stop to even ask themselves what that name is supposed to mean.
+We are not one grand "American Empire", but rather, fifty distinct, unique territories, unified on a basis of Liberty and self-government. <!-- (46 states and four technicalities: Pennsylvania is still a Commonwealth) -->
+<!-- Or that was the idea, anyway. -->
+<!-- We've come so far, but whether that has been on the up and up is yet another debate. -->  
+
+I have found so very few institutions that respect this.
+Hillsdale is one of them.
+And because of that, I'm grateful for this opportunity.
+Not an opportunity to merely _learn_ a thing, but to grow in character&mdash;faith&mdash;freedom.
 
 <!--
 My love of abstraction started when I was about 12, when I discovered a truly delightful zero-player game (cellular automaton) invented by John Conway called the Game of Life.
